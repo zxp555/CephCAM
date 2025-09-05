@@ -1,4 +1,4 @@
-# Cephalopod-inspired embodied camouflage system
+# CephCAM
 
 ## Generate & evaluate camouflage texture
 
@@ -52,3 +52,4 @@ python main.py
 
 # then run ./main.ipynb
 ```
+
